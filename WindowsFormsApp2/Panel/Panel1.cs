@@ -9,7 +9,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.Windows.Forms.DataVisualization.Charting;
-  
+   
 namespace WindowsFormsApp2.Panel
 {
     public partial class Panel1 : UserControl
