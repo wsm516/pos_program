@@ -36,3 +36,4 @@ namespace WindowsFormsApp2.Panel
         }
     }
 }
+ 
