@@ -8,7 +8,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-
+ 
 namespace WindowsFormsApp2
 {
     public partial class Analyze : Form
@@ -38,7 +38,7 @@ namespace WindowsFormsApp2
             Main f1 = new Main();
             f1.ShowDialog();
         }
-
+ 
         private void panel1_Paint(object sender, PaintEventArgs e)
         {
 
