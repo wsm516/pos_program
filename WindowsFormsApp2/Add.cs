@@ -12,7 +12,7 @@ using System.Windows.Forms;
 using System.Xml.Linq;
 using MySql.Data.MySqlClient;
 using static System.Windows.Forms.VisualStyles.VisualStyleElement;
-
+ 
 namespace WindowsFormsApp2
 {
     public partial class Add : Form
